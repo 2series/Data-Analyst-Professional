@@ -6,7 +6,7 @@ This project is a descriptive analysis and test of the **stroop effect.**
 
 Project 2 - [Investigate A Dataset](https://github.com/2series/Data-Analyst-Professional/tree/master/Project%202%20-%20Investigate%20A%20Dataset)
 #### About
-This project analysis of the Titanic dataset has been provided by [kaggle.com](http://www.kaggle.com) was. The goal was to find factors which made people survive the accident.
+This project analysis of the Titanic dataset has been provided by [kaggle.com](http://www.kaggle.com). The goal was to find factors which made people survive the accident.
 
 Project 3 - [Data Wrangling With MongoDB](https://github.com/2series/Data-Analyst-Professional/tree/master/Project%203%20-%20Data%20Wrangling%20With%20MongoDB)
 #### About
